@@ -1,7 +1,7 @@
 # About Me
 
 
-**Lethukuthula02/Lethukuthula02** 
+**Lethukuthula02/Lethukuthula02**  
 
 
 - 🔭 I’m currently working on ...my coding skills
